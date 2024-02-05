@@ -1,0 +1,403 @@
+.div1{
+    marquee{
+        position: fixed;
+        background-color:aquamarine;
+        height:40px;
+        font-size: 30px;
+        text-align: center;
+        font-weight: bold;
+    }
+}
+.div2{
+    .navbar{
+    position: fixed;
+        background-color: black;
+        height: 80px;
+        .navbar-brand{
+            color: white;
+            font-weight: 700;
+            font-family:cursive;
+            font-size: 50px;
+            margin-right: 350px;
+            margin-left: 50px;
+        }
+        .nav-link{
+            color: white;
+            font-size: 20px;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        .nav-item1{
+            margin-left: 350px;
+        }
+        .bi{
+            font-size: 35px;
+            padding: 10px;
+        }
+    }
+}
+.div3{
+    .row{
+        height: 400px;
+        .col-5{
+            background-color:gray;
+            .p1{
+                padding: 0%;
+                margin-left: 70px;
+                margin-right: 70px;
+                margin-top: 70px;
+                color: black;
+                text-align: center;
+                font-size: 50px;
+                font-weight:bolder;
+                font-family: Georgia, 'Times New Roman', Times, serif;
+            }
+            .p2{
+                padding: 0%;
+                margin-left: 70px;
+                margin-right: 70px;
+                color: black;
+                text-align: center;
+                font-size: 28px;
+                font-weight:00;
+                font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            }
+            .btn-dark{
+                background-color: black;
+                color: white;
+                margin-top: 5px;
+                margin-left: 60px;
+                margin-right: 60px;
+                margin-bottom: 10px;
+                text-align: center;
+                width: 390px;
+                height:50px;
+                font-size: 18px;
+            }
+        }
+        .col-7{
+            background-color:gray;
+            .img1{
+                height:518px;
+                width: 100%;
+            }
+        }
+    }
+}
+.div4{
+    height: 80px;
+    background-color:snow;
+    text-align: center;
+    border: 2px solid black;
+    .ii{
+        margin-top: 20px;
+        padding: 10px;
+        width: 140px;
+        height: 50px;
+    }
+}
+.p3{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    font-family:monospace;
+}
+.div5{
+    margin-top: 50px;
+    text-align: center;
+    .row{
+        font-family: 'Times New Roman', Times, serif;
+        .col-3{
+            text-align: left;
+            border: 1px solid black;
+            margin-left: 38px;
+            padding: 15px;
+            .imm{
+                width:300px;
+                height:300px;
+            }
+            .btn{
+                width: 290px;
+                text-align: center;
+                margin-top: 10%;
+            }
+        }
+        .col-2{
+            text-align: left;
+            border: 1px solid black;
+            margin-left: 40px;
+            padding: 15px;
+            .imm{
+                width:200px;
+                height:300px;
+            }
+            .imm1{
+                width:200px;
+                height:330px;
+            }
+            .btn{
+                margin-top: 17%;
+                width: 190px;
+                text-align: center;
+            }
+        }
+    } 
+}
+.p4{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 600;
+    font-family:monospace;
+}
+.div6{
+    margin-left: 3%;
+    margin-right: 3%;
+    .row{
+        .col-3{
+            text-align: center;
+            font-weight: 400;
+            .p5{
+                font-size: 15px;
+            }
+            .bi{
+                font-size:35px;
+            }
+        }
+        .col-6{
+            text-align: center;
+        }
+        .immm{
+            width: 500px;
+            height: 500px;
+        }
+    }
+}
+.div7{
+    .row{
+        border: 2px solid black;
+        background-color:snow;
+        .col-5{
+
+            .imm2{
+                width: 520px;
+                height:450px;
+            }
+        }
+        .col-2{
+            position: absolute;     
+            .d1{
+                background-color: aquamarine;
+                height: 70px;
+                width: 880px;
+                margin-top: 40%;
+                margin-left:100% ;
+                .p6{
+                    font-size: 70px;
+                    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                    text-align: center;
+                    font-weight: 200;
+                }
+                .p7{
+                position: absolute;
+                font-size: 30px;
+                width: 480px;
+                font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                text-align: center;
+                margin-left:100% ;
+            }
+            .btn{
+                position: absolute;
+                background-color: black;
+                margin-top: 75%;
+                width: 480px;
+                height: 60px;
+                margin-left: 100%;
+                font-size: 25px;
+                font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            }
+            }
+            
+        }
+    }
+}
+.div8{
+    background-color: black;
+    color: white;
+    height: 800px;
+    .p8{
+        padding-top: 40px;
+        padding-bottom:40px;
+        text-align: center;
+        font-size: 60px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: 600;  
+        color: white;
+    }
+    .col-2{
+        border: 1px solid white;
+        height: 400px;
+        text-align: center;
+        margin: 1.5%;
+        .imm3{
+            margin-top: 17%;
+            height: 140px;
+            width: 180px;
+        }
+        .p9{
+            margin-top: 10%;
+            text-align: center;
+            font-size: 15px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-weight: 300;
+        }
+        .p10{
+            font-size: 10px;
+            font-weight: 200;
+            font-family: 'Times New Roman', Times, serif;
+        }
+    }
+    .btn{
+        margin-top: 5%;
+        margin-left: 40%;
+        width: 300px;
+        font-size: 20px;
+        background-color: aquamarine;
+        color: black;
+    }
+}
+.div9{
+    height: 700px;
+    .p11{
+        padding-top: 40px;
+        padding-bottom:40px;
+        text-align: center;
+        font-size: 60px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: 600;  
+        color:black;
+    }
+    .row{
+        .col-3{
+            border: 1px solid black;
+            background-color: snow;
+            margin-left: 6%;
+          .p12{
+            font-size: 30px;
+            font-weight: 900;
+            color: black;
+            text-align:center;
+          }
+          .imm4{
+            height: 350px;
+            width: 295px;
+          }
+          .btn{
+            width: 295px;
+            background-color: black;
+            color: white;
+          }
+        }
+    }
+}
+.div10{
+    .p13{
+        padding-top: 30px;
+        padding-bottom:30px;
+        text-align: center;
+        font-size: 60px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight:500;  
+        color:black;
+    }
+    .btn{
+        font-size: 30px;
+        margin-bottom: 2%;
+        padding: 1%;
+        text-align: left;
+        font-family:'Times New Roman', Times, serif;
+        font-weight: 500;
+        width: 100%;
+        background-color: white;
+        color: black;
+    }
+    .p14{
+        font-size: 15px;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: 500;
+        margin-left: 5%;
+    }
+    li{
+        margin-left: 5%;
+        font-size: 15px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+}
+.div11{
+    background-color: black;
+    height: 420px;
+    .row{
+        .col-4{
+          width: 300px;
+          border-right:2px solid white ;
+          margin-left: 3%;
+          .p15{
+            color: white;
+            font-size: 17px;
+            font-family: Arial, Helvetica, sans-serif;
+          }
+          .mail{
+            margin-top: 10%;
+            width: 270px;
+            font-size: 17px;
+            background-color: transparent;
+            border-bottom: 2px solid white;
+            color: white;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+          }
+          .btn{
+            background-color: white;
+            color: black;
+            margin-top: 5%;
+            width: 180px;
+            margin-bottom: 5%;
+          }
+          .imm5{
+            height: 50px;
+            width: 60px;
+            margin-right: 10%;
+            margin-bottom: 8%;
+          }
+        }
+        .col-8{
+            .row{
+                margin-left: 2%;
+                .col-3{
+                    font-weight: 900;
+                    color: white;
+                    margin-top: 6%;
+                    font-size: 20px;
+                    a{
+                        font-family: 'Times New Roman', Times, serif;
+                        margin-top:7%;
+                        padding-bottom: 5%;
+                        color: white;
+                    }
+                    .p17{
+                        font-size: 12px;
+                        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                        font-weight: 600;
+                        margin-top: 55%;
+                    }
+                    .p18{
+                        margin-bottom: 2%;
+                        font-size: 10px;
+                        width: auto;
+                        font-weight: 300;
+                    }
+                }
+            }
+        }
+    }
+}
